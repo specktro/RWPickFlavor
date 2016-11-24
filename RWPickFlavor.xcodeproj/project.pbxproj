@@ -72,10 +72,10 @@
 		507BEA2B1DE51BFD00602537 = {
 			isa = PBXGroup;
 			children = (
+				507BEA371DE51BFD00602537 /* RWPickFlavor */,
 				B345A2B80BF8EAE48E5FFFB7 /* Frameworks */,
 				2FA5CD25034FE51F2F6A3528 /* Pods */,
 				507BEA361DE51BFD00602537 /* Products */,
-				507BEA371DE51BFD00602537 /* RWPickFlavor */,
 			);
 			sourceTree = "<group>";
 		};
