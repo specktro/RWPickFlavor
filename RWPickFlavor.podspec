@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
 
 # 1
 s.platform = :ios
-s.ios.deployment_target = '8.0'
+s.ios.deployment_target = '8.1'
 s.name = "RWPickFlavor"
 s.summary = "RWPickFlavor lets a user select an ice cream flavor."
 s.requires_arc = true
@@ -28,7 +28,7 @@ s.homepage = "https://github.com/specktro/RWPickFlavor.git"
 
 
 # 6 - Replace this URL with your own Git URL from "Quick Setup"
-s.source = { :git => "github-mac://openRepo/https://github.com/specktro/RWPickFlavor", :tag => "#{s.version}"}
+s.source = { :git => "https://github.com/ahidrees/RWPickFlavor.git", :tag => "0.1.0"}
 
 # For example,
 # s.source = { :git => "https://github.com/JRG-Developer/RWPickFlavor.git", :tag => "#{s.version}"}
