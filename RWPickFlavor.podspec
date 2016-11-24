@@ -8,7 +8,7 @@ s.summary = "RWPickFlavor lets a user select an ice cream flavor."
 s.requires_arc = true
 
 # 2
-s.version = "0.1.0"
+s.version = "0.2.0"
 
 # 3
 s.license = { :type => "MIT", :file => "LICENSE" }
@@ -21,14 +21,14 @@ s.author = { "specktro" => "specktro@nonull.mx" }
 
 
 # 5 - Replace this URL with your own Github page's URL (from the address bar)
-s.homepage = "https://github.com/specktro/RWPickFlavor.git"
+s.homepage = "https://github.com/specktro/RWPickFlavor"
 
 # For example,
 # s.homepage = "https://github.com/JRG-Developer/RWPickFlavor"
 
 
 # 6 - Replace this URL with your own Git URL from "Quick Setup"
-s.source = { :git => "https://github.com/ahidrees/RWPickFlavor.git", :tag => "0.1.0"}
+s.source = { :git => "https://github.com/specktro/RWPickFlavor.git", :tag => "0.2.0"}
 
 # For example,
 # s.source = { :git => "https://github.com/JRG-Developer/RWPickFlavor.git", :tag => "#{s.version}"}
@@ -40,7 +40,7 @@ s.dependency 'Alamofire', '~> 2.0'
 s.dependency 'MBProgressHUD', '~> 0.9.0'
 
 # 8
-s.source_files = "RWPickFlavor/**/*.{swift}"
+s.source_files = "RWPickFlavor/**/*.swift"
 
 # 9
 s.resources = "RWPickFlavor/**/*.{png,jpeg,jpg,storyboard,xib}"
